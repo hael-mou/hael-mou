@@ -20,8 +20,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/hael-mou" height="30" width="40" /></a>
 <a href="https://instagram.com//hael-mou" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/hael-mou" height="30" width="40" /></a>
-<a href="https://www.behance.net//hael-mou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="/hael-mou" height="30" width="40" /></a>
-<a href="https://discord.gg/hael-mou#8692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hael-mou#8692" height="30" width="40" /></a>
+<a href="https://www.behance.net/hael-mou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="/hael-mou" height="30" width="40" /></a>
+<a href="https://discord.com/users/986746699106111498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hael-mou#8692" height="30" width="40" /></a>
 </p>
 <br />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hael-mou&show_icons=true&locale=en" alt="hael-mou" /></p>
