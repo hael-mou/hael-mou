@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" />
 
 - 🔭 I’m currently working on **ft_transcendence**
-- 🌱 I’m currently learning **Game Engines**, and **Microservices Architecture**
 - 💬 Ask me about **all hhhh**
 - 📬 How to reach me: hamzaelmoudden2@gmail.com
 - ⚡ Fun fact: **I am Funny :)**
